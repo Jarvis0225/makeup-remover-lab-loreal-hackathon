@@ -1,0 +1,66 @@
+{
+ "per_kind": {
+  "原图": {
+   "aigc": 1.0,
+   "ba_real": 0.83,
+   "copymove": 1.0,
+   "real": 1.0,
+   "retouch": 1.0,
+   "splice": 1.0
+  },
+  "平台重压缩 Q75": {
+   "aigc": 1.0,
+   "ba_real": 1.0,
+   "copymove": 1.0,
+   "real": 1.0,
+   "retouch": 1.0,
+   "splice": 1.0
+  },
+  "缩放0.75+Q85": {
+   "aigc": 1.0,
+   "ba_real": 0.17,
+   "copymove": 1.0,
+   "real": 1.0,
+   "retouch": 1.0,
+   "splice": 1.0
+  }
+ },
+ "overall": {
+  "原图": 0.972,
+  "平台重压缩 Q75": 1.0,
+  "缩放0.75+Q85": 0.861
+ },
+ "per_kind_base": {
+  "原图": {
+   "aigc": 1.0,
+   "ba_real": 0.83,
+   "copymove": 1.0,
+   "real": 1.0,
+   "retouch": 1.0,
+   "splice": 0.5
+  },
+  "平台重压缩 Q75": {
+   "aigc": 1.0,
+   "ba_real": 1.0,
+   "copymove": 1.0,
+   "real": 1.0,
+   "retouch": 1.0,
+   "splice": 0.0
+  },
+  "缩放0.75+Q85": {
+   "aigc": 1.0,
+   "ba_real": 1.0,
+   "copymove": 1.0,
+   "real": 1.0,
+   "retouch": 1.0,
+   "splice": 0.33
+  }
+ },
+ "overall_base": {
+  "原图": 0.889,
+  "平台重压缩 Q75": 0.833,
+  "缩放0.75+Q85": 0.889
+ },
+ "trufor": true,
+ "n_per_kind": 6
+}

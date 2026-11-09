@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# 生成物
+video/build/
+data/test_package/
+docs/assets/_tmp/
+docs/*.mp4
+docs/*.pptx
+docs/*.pdf
+docs/*.zip
+# 第三方代码、模型权重与数据集（按 THIRD_PARTY.md 自行下载）
+../third_party/
+third_party/
+*.pth
+*.pth.tar
+# 真实截图不公开
+data/screenshots/xhs_real_*
